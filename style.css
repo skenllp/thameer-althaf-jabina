@@ -1104,6 +1104,16 @@ body {
   line-height: 1.1;
 }
 
+.thankyou-regards {
+  font-family: var(--font-body);
+  font-size: clamp(1.05rem, 2.2vw, 1.25rem);
+  font-style: italic;
+  letter-spacing: 0.04em;
+  color: #f5f5f5;
+  line-height: 1.7;
+  margin-top: 22px;
+}
+
 /* ==========================================================================
    RESPONSIVE
    ========================================================================== */
